@@ -11,8 +11,18 @@ body{
   background-image: repeating-radial-gradient(center center, rgba(0,0,0,.2), rgba(0,0,0,.2) 1px, transparent 1px, transparent 100%);
   -webkit-background-size: 3px 3px;
   -moz-background-size: 3px 3px;
-  background-size: 3px 3px;
+  background-size: 3px 3px;x
 }
+
+#footer {
+  background:#ffab62;
+  width:100%;
+  height:100px;
+  position:absolute;
+  bottom:0;
+  left:0;
+}
+
 html,
 body {
   height: 100%;
